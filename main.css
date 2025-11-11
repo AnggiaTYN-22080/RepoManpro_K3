@@ -30,5 +30,20 @@ h1{
     align-items: center;
     color: black;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+}
+
+.anggota{
     font-size: 35px;
+
+}
+
+img{
+    width: 250px;
+}
+
+.anggota-kelompok{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 50px;
 }
